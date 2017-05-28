@@ -6,9 +6,9 @@ Test cases are in the range `1 <= n <= 10**15`
 
 -----------
 
-## Solution
+## Solution - `O(log(n))``
 
-Brute force can be done by simply checking each natural number less than `n`.
+Brute force, `O(n)`, can be done by simply checking each natural number less than `n`.
 
 A more elegant solution will note that every number has at least `i = 0` as a
 solution, and each 0 digit in `n` results in two possible branches of solutions, namely:
