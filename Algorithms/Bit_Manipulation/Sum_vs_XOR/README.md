@@ -6,7 +6,7 @@ Test cases are in the range `1 <= n <= 10**15`
 
 -----------
 
-## Solution - `O(log(n))``
+## Solution - `O(log(n))`
 
 Brute force, `O(n)`, can be done by simply checking each natural number less than `n`.
 
