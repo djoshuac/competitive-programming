@@ -1,9 +1,0 @@
-def matrix_equal(matrix1, matrix2):
-    for i in range(len(matrix1)):
-        for j in range(len(matrix[i])):
-	    if matrix1[i][j] != matrix2[i][j]:
-	        return False
-    return True
-
-def answer(entrances, exits, rooms):
-    pass
